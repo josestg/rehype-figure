@@ -1,6 +1,9 @@
 # rehype-figure
 
 [![Build Status](https://travis-ci.com/josestg/rehype-figure.svg?token=1ZtvVXXQrZXVL8domfez&branch=master)](https://travis-ci.com/josestg/rehype-figure)
+![license](https://badgen.net/github/license/josestg/rehype-figure)
+![release](https://badgen.net/github/release/josestg/rehype-figure)
+![npm](https://badgen.net/npm/v/rehype-figure)
 
 [rehype](https://github.com/rehypejs/rehype) plugins to support figure and caption!
 
