@@ -1,0 +1,24 @@
+{
+  "name": "rehype-figure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:josestg/rehype-figure.git",
+  "author": "Jose Alfredo Sitanggang <josealfredositanggang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "nyc --reporter lcov  mocha *.test.js"
+  },
+  "dependencies": {
+    "hastscript": "^6.0.0",
+    "unist-util-visit": "^2.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.1",
+    "nyc": "^15.1.0",
+    "rehype-stringify": "^8.0.0",
+    "remark-parse": "^8.0.3",
+    "remark-rehype": "^7.0.0",
+    "to-vfile": "^6.1.0",
+    "unified": "^9.2.0"
+  }
+}
